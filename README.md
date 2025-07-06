@@ -16,16 +16,16 @@ This project is  done in order to understanding the working and designing of Pha
 ---
 ## 📸 Hardware Views
 - Fabricated PCB   
-<img src="images/Fabricated_PCB_view.png" alt="Fab_PCB" width="400"/>
+<img src="images/Fabricated_PCB_view.jpg" alt="Fab_PCB" width="400"/>
 
 - Final Product   
-<img src="images/Working_Model.png" alt="Working_Model" width="400"/>
+<img src="images/Working_Model.jpg" alt="Working_Model" width="400"/>
 
 ---
 
 ## 🎥 Working Video
 
-[![Watch the demo](images/vedio_thumbnail.png)](https://youtu.be/VYPyOt82ZPA?si=oFmXEJ_kGBIHk-PX)
+>    [<img src="images/vedio_thumbnail.jpg" alt="thumbnail" width="300"/>](https://youtu.be/VYPyOt82ZPA?si=oFmXEJ_kGBIHk-PX)
 
 ---
 
